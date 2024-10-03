@@ -33,7 +33,7 @@ def calculate_muffin_total(muffin_price, muffin_order):
 muffin_total = calculate_muffin_total(muffin_price, muffin_order)
 
 #Define function that multiplies price of tea by number of cups of tea ordered by the user
-def calculate_tea_total(tea_price, tea_order)
+def calculate_tea_total(tea_price, tea_order):
     tea_total = tea_price * tea_order
     return tea_total
 
@@ -41,7 +41,7 @@ def calculate_tea_total(tea_price, tea_order)
 tea_total = calculate_tea_total(tea_price, tea_order)
 
 #Define function that multiplies price of sandwich by number of sandwiches ordered by the user
-def calculate_sandwich_total(sandwich_price, sandwich_order)
+def calculate_sandwich_total(sandwich_price, sandwich_order):
     sandwich_total = sandwich_price * sandwich_order
     return sandwich_total
 
